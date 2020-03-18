@@ -16,7 +16,7 @@ No seu repositório, você deverá entregar:
 2. Todos os arquivos citados no documento Entrega.md, incluindo:
 
    - Um arquivo `specs.txt`, com especificações da plataforma utilizada (processador, memória, SO).
-   - Um arquivo `results.csv`, preenchido com dados de execuções dos programas, conforme o roteiro abaixo. Há um modelo para esse arquivo [aqui](results.csv). Você pode facilmente converter esse arquivo para Markdown usando scripts ou serviços como esse [aqui](https://donatstudios.com/CsvToMarkdownTable).
+   - Um arquivo `results.csv`, preenchido com dados de execuções dos programas, conforme o roteiro abaixo. Você deve usar uma formatação padronizada para esse arquivo, disponível [aqui](results.csv). Para converter esse arquivo para Markdown e incluí-lo na sua página de entrega, use scripts ou serviços como esse [aqui](https://donatstudios.com/CsvToMarkdownTable).
 
 
 ## Parte I: Pthreads
