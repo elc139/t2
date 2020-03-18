@@ -1,12 +1,26 @@
+[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2019a) > Trabalhos
+
 # T2: Programação Paralela Multithread 
 
-Este roteiro de trabalho assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-)
 
+## Preparação
+
+1. Este roteiro de trabalho assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-)
+
+2. Para obter os arquivos necessários ao trabalho, faça fetch e merge do repositório original da disciplina. 
+Para isso, consulte a documentação do cliente Git que você estiver usando. Se estiver usando git via linha de comando, faça assim:
+   ```
+   git remote add upstream https://github.com/AndreaInfUFSM/elc139-2019a.git
+   git fetch upstream
+   git merge upstream/master master
+   ```
+   Obs.: o primeiro comando associa seu repositório local ao repositório remoto original da disciplina. Você só fará isso uma vez. 
+   Para os outros trabalhos, basta fazer fetch e merge.
 
 
 ## Entrega
 
-Você deverá entregar:
+No seu repositório da disciplina, na pasta `trabalhos/t2`, você deverá entregar:
 
 1. Um documento `Entrega.md`, contendo:
    - Identificação: seu nome e nome da disciplina;
@@ -23,9 +37,11 @@ Você deverá entregar:
 
 1. Escolha um computador com mais de um núcleo de processamento. Verifique suas características (processador, memória).
 
-2. Você vai trabalhar com 2 programas que usam POSIX threads para cálculo de um produto escalar: [pthreads_dotprod.c](pthreads_dotprod/pthreads_dotprod.c) e [pthreads_dotprod2.c](pthreads_dotprod/pthreads_dotprod2.c).
+2. Faça fetch e merge do repositório original da disciplina para obter os arquivos necessários para o trabalho.
 
-3. Compile esses programas:
+3. Você vai trabalhar com 2 programas que usam POSIX threads para cálculo de um produto escalar: [pthreads_dotprod.c](pthreads_dotprod/pthreads_dotprod.c) e [pthreads_dotprod2.c](pthreads_dotprod/pthreads_dotprod2.c).
+
+4. Compile esses programas:
 
    ```
    make
@@ -93,3 +109,4 @@ Você deverá entregar:
 
 - [Tutorial OpenMP](https://computing.llnl.gov/tutorials/openMP/)  
   Tutorial do Lawrence Livermore National Laboratory (LLNL) sobre OpenMP. 
+
