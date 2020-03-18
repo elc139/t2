@@ -1,4 +1,4 @@
-[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2019a) > Trabalhos
+[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2020a) > Trabalhos
 
 # T2: Programação Paralela Multithread 
 
