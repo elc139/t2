@@ -1,9 +1,6 @@
 # T2: Programação Paralela Multithread 
 
-
-## Preparação
-
-1. Este roteiro de trabalho assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-)
+Este roteiro de trabalho assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-)
 
 
 
