@@ -2,25 +2,11 @@
 
 # T2: Programação Paralela Multithread 
 
-
-## Preparação
-
-1. Este roteiro de trabalho assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-)
-
-2. Para obter os arquivos necessários ao trabalho, faça fetch e merge do repositório original da disciplina. 
-Para isso, consulte a documentação do cliente Git que você estiver usando. Se estiver usando git via linha de comando, faça assim:
-   ```
-   git remote add upstream https://github.com/AndreaInfUFSM/elc139-2019a.git
-   git fetch upstream
-   git merge upstream/master master
-   ```
-   Obs.: o primeiro comando associa seu repositório local ao repositório remoto original da disciplina. Você só fará isso uma vez. 
-   Para os outros trabalhos, basta fazer fetch e merge.
-
+Este roteiro de trabalho assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-)
 
 ## Entrega
 
-No seu repositório da disciplina, na pasta `trabalhos/t2`, você deverá entregar:
+No seu repositório, você deverá entregar:
 
 1. Um documento `Entrega.md`, contendo:
    - Identificação: seu nome e nome da disciplina;
