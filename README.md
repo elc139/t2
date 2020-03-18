@@ -23,8 +23,6 @@ No seu repositório, você deverá entregar:
 
 1. Escolha um computador com mais de um núcleo de processamento. Verifique suas características (processador, memória).
 
-2. Faça fetch e merge do repositório original da disciplina para obter os arquivos necessários para o trabalho.
-
 3. Você vai trabalhar com 2 programas que usam POSIX threads para cálculo de um produto escalar: [pthreads_dotprod.c](pthreads_dotprod/pthreads_dotprod.c) e [pthreads_dotprod2.c](pthreads_dotprod/pthreads_dotprod2.c).
 
 4. Compile esses programas:
