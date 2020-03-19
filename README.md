@@ -2,7 +2,7 @@
 
 # T2: Programação Paralela Multithread 
 
-Este trabalho tem o objetivo de familiarizá-los sobre etapas de [Projeto de programas paralelos](https://docs.google.com/presentation/d/1Ev5CROjugPpZm5hT4a387dLEQTmxnZAtKUqXItVeHOc?usp=sharing), passando pela realização de experimentos para cálculo de métricas de desempenho.
+Este trabalho tem o objetivo de familiarizá-los sobre etapas de [projeto de programas paralelos](https://docs.google.com/presentation/d/1Ev5CROjugPpZm5hT4a387dLEQTmxnZAtKUqXItVeHOc?usp=sharing), passando pela realização de experimentos para cálculo de métricas de desempenho.
 
 O roteiro abaixo assume familiaridade com Linux e linguagem C, com compilador GCC. É possível usar outras combinações de SO e compilador, por sua conta e risco :-) 
 
